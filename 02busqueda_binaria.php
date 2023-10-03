@@ -106,7 +106,7 @@
         $miLista = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
         // Creación de una lista llamada "$miLista" con valores
 
-        $elementoBuscar = 4;
+        $elementoBuscar = 5;
         // Asignación del valor a buscar en la lista
 
         $resultado = busquedaBinaria($miLista, $elementoBuscar);
